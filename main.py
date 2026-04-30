@@ -76,7 +76,7 @@ with col1:
         </div>
     """, unsafe_allow_html=True)
     if st.button("ACCEDER _ 01"):
-        st.switch_page("pages/1_balistica.py")
+        st.switch_page("pages/1_app.py")
 
 with col2:
     st.markdown("""
